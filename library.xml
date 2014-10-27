@@ -45,7 +45,7 @@
 	</media>
 	<media id="II LotF 3">
 		<mediatype>Book</mediatype>
-		<genretype>Sciencefiction</genretype>
+		<genretype>Science Fiction</genretype>
 		<series>Star Wars: Legacy of the Force</series>
 		<title>Tempest</title>
 		<keypersonnel>
@@ -86,7 +86,7 @@
 	</media>
 	<media id="III LotF2">
 		<mediatype>Book</mediatype>
-		<genretype>Sciencefiction</genretype>
+		<genretype>Science Fiction</genretype>
 		<series>Star Wars: Legacy of the Force</series>
 		<title>Bloodlines</title>
 		<keypersonnel>
@@ -127,7 +127,7 @@
 	</media>
 	<media id="IV LotF4">
 		<mediatype>Book</mediatype>
-		<genretype>Sciencefiction</genretype>
+		<genretype>Science Fiction</genretype>
 		<series>Star Wars: Legacy of the Force</series>
 		<title>Exile</title>
 		<keypersonnel>
@@ -168,7 +168,7 @@
 	</media>
 	<media id="V LotF5">
 		<mediatype>Book</mediatype>
-		<genretype>Sciencefiction</genretype>
+		<genretype>Science Fiction</genretype>
 		<series>Star Wars: Legacy of the Force</series>
 		<title>Sacrifice</title>
 		<keypersonnel>
@@ -209,7 +209,7 @@
 	</media>
 	<media id="VI LotF6">
 		<mediatype>Book</mediatype>
-		<genretype>Sciencefiction</genretype>
+		<genretype>Science Fiction</genretype>
 		<series>Star Wars: Legacy of the Force</series>
 		<title>Inferno</title>
 		<keypersonnel>
@@ -250,7 +250,7 @@
 	</media>
 	<media id="VII LotF7">
 		<mediatype>Book</mediatype>
-		<genretype>Sciencefiction</genretype>
+		<genretype>Science Fiction</genretype>
 		<series>Star Wars: Legacy of the Force</series>
 		<title>Fury</title>
 		<keypersonnel>
@@ -291,7 +291,7 @@
 	</media>
 	<media id="VIII LotF8">
 		<mediatype>Book</mediatype>
-		<genretype>Sciencefiction</genretype>
+		<genretype>Science Fiction</genretype>
 		<series>Star Wars: Legacy of the Force</series>
 		<title>Revelation</title>
 		<keypersonnel>

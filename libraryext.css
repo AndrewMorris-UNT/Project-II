@@ -11,8 +11,8 @@ table, tr, th {
 
 tr {
     padding: 4px;
-	font-family: Caslon;
-	font-size: 13px;
+	font-family: Garamond;
+	font-size: 15px;
 	color: FFFFFF;
 }
 
@@ -35,7 +35,29 @@ h1 {
 	font-size: 28px;
 	font-weight: strong;
 	color: #CC5600;
-	
+}
+
+h2 {
+	font-family: Verdana;
+	font-size: 20px;
+	font-weight: strong;
+	color: #FFFFFF;
+}
+
+h3 {
+	font-family: Century Gothic, sans-serif;
+	font-size: 18px;
+	padding-right: 1.25em;
+	color: #CC5600;
+	font-weight: strong;
+}
+
+h4 {
+	font-family: Century Gothic, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	text-align: right;
+	display: inline;
 }
 	
 p {
@@ -44,9 +66,10 @@ p {
 	color: #FF984C;
 }
 
-table ul {
-	font-family: Century;
-	font-size: 14px;
+ul li{
+	font-family: Garamond;
+	font-size: 15px;
+	padding-bottom: 0.25em;
 }
 
 	/* Define the default color for all the table rows */
@@ -55,17 +78,13 @@ table ul {
 	}
 	/* Define the hover highlight color for the table row */
  tr:hover {
-          background-color: #CC5600;
+          background-color: #D9260B;
 		  color: white;
     }
 
-.main-content ul li {
+main-content ul li {
 	font-size: 18px;
 	font-family: Garamond; 
 	margin-left: 5%;
 	margin-top: 14px;
-	color: #FF984C;
-	line-height:1.4;
-	width:80%;
-	list-style-type: square;
 }

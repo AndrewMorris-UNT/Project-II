@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Project II: XML Database </title>
+				<link rel="stylesheet" type="text/css" href="libraryext.css" />
+				<h1>My Media Library</h1>
+<body>
+<p>This is the start of my media library. There are three types of media contained within the table:</p>
+	<ul>
+		<li>Books</li>
+		<li>DVDs</li>
+		<li>CDs</li>
+	</ul>
+<p>Each item contains the same general information, with some item-specific information included. </p>
+<p>Please let me know what you think! </p>
+<script>
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.open("GET","library.xml",false);
+xmlhttp.send();
+xmlDoc=xmlhttp.responseXML; 
+
+document.write("<table border='1'>");
+var x=xmlDoc.getElementsByTagName("media");
+for (i=0;i<x.length;i++)
+  { 
+  document.write("<tr><td>");
+  document.write(x[i].getElementsByTagName("mediatype")[0].childNodes[0].nodeValue);
+  document.write("</td><td>");
+  document.write(x[i].getElementsByTagName("series")[0].childNodes[0].nodeValue);
+  document.write("</td><td>");
+  document.write(x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue);
+  document.write("</td></tr>");
+  }
+document.write("</table>");
+</script>
+
+<p>This is my test HTML page. With further exploration of javascript, my full table will eventually be displayed and more information will be available.</p>
+<p>With code items such as &lt;div&gt; and &lt;nav&gt; I will be able to make a better, more appealing webpage. </p>
+</body>
+</html>

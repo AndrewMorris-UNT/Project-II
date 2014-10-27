@@ -25,7 +25,7 @@
 						<td><xsl:value-of select="mediatype" /></td>
 						<td><xsl:value-of select="genretype" /></td>
 						<td><xsl:value-of select="series" /></td>
-						<td align="right"><xsl:value-of select="title" /></td>
+						<td align="right"><h3><xsl:value-of select="title" /></h3></td>
 					<td>
 					<xsl:for-each select="keypersonnel">
 							<ul>
@@ -57,7 +57,7 @@
 						<xsl:if test ="book-extra">
 							<ul>
 								<li><xsl:value-of select="book-extra/pages"/> pages</li>
-								<li>Book <strong><xsl:value-of select="book-extra/currentbook"/></strong> of <strong><xsl:value-of select="book-extra/totalinseries"/></strong></li>
+								<li>Book <h4><xsl:value-of select="book-extra/currentbook"/></h4> of <h4><xsl:value-of select="book-extra/totalinseries"/></h4></li>
 							</ul>
 						</xsl:if>
 						<xsl:if test="dvd-extra">
