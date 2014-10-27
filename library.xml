@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="library.xsl" type="text/xsl" ?>
+
+<library>
+	<media id="I FotJ 3">
+		<mediatype>Book</mediatype>
+		<genretype>Science Fiction</genretype>
+		<series>Star Wars: Fate of the Jedi</series>
+		<title>Abyss</title>
+		<keypersonnel>
+			<person>
+				<role>Author</role>
+					<name>
+					<firstname>Troy</firstname>
+					<lastname>Denning</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+				<name>
+					<firstname>Luke</firstname>
+					<lastname>Skywalker</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Character</role>
+				<name>
+					<firstname>Ben</firstname>
+					<lastname>Skywalker</lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis> 
+			<summary>On Couruscant, an epidemic of madness is preying on the ranks of the Jedi Order - driving the Galatic Alliance to martial actions. As Han and Leia Solo, along with their daughter, Jaina, join the fight to protect more stricken Knights from arrest, Jedi healers race to find a cure for the rapidly spreading affliction.</summary>
+		</synopsis>
+		<extra>
+			<book-extra>
+				<pages>388</pages>
+				<currentbook>3</currentbook>
+				<totalinseries>5</totalinseries>
+			</book-extra>
+		</extra>	
+		<pub>Del Rey: Ballantine Books</pub>
+		<pubdate>2010</pubdate>	
+	</media>
+	<media id="II LotF 3">
+		<mediatype>Book</mediatype>
+		<genretype>Sciencefiction</genretype>
+		<series>Star Wars: Legacy of the Force</series>
+		<title>Tempest</title>
+		<keypersonnel>
+			<person>
+				<role>Author</role>
+					<name>
+					<firstname>Troy</firstname>
+					<lastname>Denning</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+				<name>
+					<firstname>Han</firstname>
+					<lastname>Solo</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Character</role>
+				<name>
+					<firstname>Jacen</firstname>
+					<lastname>Solo</lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis> 
+			<summary>As civil war threatens the unity of the Galatic Alliance, Han and Leia Solo have enraged their families and the Jedi by joining the Corellian insurgents. But the Solos draw the line when they discover the rebels' plot to make the Hapan Consortium an ally- which rests upon Hapan nobles murdering their pro-Alliance queen and her daughter.</summary>
+		</synopsis>
+		<extra>
+			<book-extra>
+				<pages>392</pages>
+				<currentbook>3</currentbook>
+				<totalinseries>9</totalinseries>
+			</book-extra>
+		</extra>	
+		<pub>Del Rey: Ballantine Books</pub>
+		<pubdate>2006</pubdate>	
+	</media>
+	<media id="III LotF2">
+		<mediatype>Book</mediatype>
+		<genretype>Sciencefiction</genretype>
+		<series>Star Wars: Legacy of the Force</series>
+		<title>Bloodlines</title>
+		<keypersonnel>
+			<person>
+				<role>Author</role>
+					<name>
+						<firstname>Karen</firstname>
+						<lastname>Travis</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+					<name>
+						<firstname>Boba</firstname>
+						<lastname>Fett</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+					<name>
+						<firstname>Leia</firstname>
+						<lastname>Solo</lastname>
+					</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<summary>Civil war looms as the fledging Galatic Alliance confronts a growing number of rebellious worlds - and the approaching war is tearing the Skywalker and Solo families apart. Han and Leia return to Han's homeworld, Corellia, the heart of the resistance. Their children, Jacen and Jaina, are soldiers in the Galactic Alliance's campaign to crush the insurgents.</summary>
+		</synopsis>
+		<extra>
+			<book-extra>
+				<pages>380</pages>
+				<currentbook>2</currentbook>
+				<totalinseries>9</totalinseries>
+			</book-extra>
+		</extra>
+		<pub>Del Rey: Ballantine Books</pub>
+		<pubdate>2006</pubdate>
+	</media>
+	<media id="IV LotF4">
+		<mediatype>Book</mediatype>
+		<genretype>Sciencefiction</genretype>
+		<series>Star Wars: Legacy of the Force</series>
+		<title>Exile</title>
+		<keypersonnel>
+			<person>
+				<role>Author</role>
+					<name>
+						<firstname>Aaron</firstname>
+						<lastname>Allston</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+					<name>
+						<firstname>Mara</firstname>
+						<lastname>Skywalker</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+					<name>
+						<firstname>Jacen</firstname>
+						<lastname>Solo</lastname>
+					</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<summary>With each victory against the Corellian rebels, Jacen Solo becomes more admired, more powerful, and more certain of achieving galatic peace. But that peace may come with a price. Despite strained relationships caused by opposing sympathies in the war, Han and Leia Solo and Luke and Mara Skywalker remain united by one frightening suspicion: Someone insidious is manipulating this war, and if he or she isn't stopped, all efforts at reconciliation may be for naught.</summary>
+		</synopsis>
+		<extra>
+			<book-extra>
+				<pages>337</pages>
+				<currentbook>4</currentbook>
+				<totalinseries>9</totalinseries>
+			</book-extra>
+		</extra>
+		<pub>Del Rey: Ballantine Books</pub>
+		<pubdate>2007</pubdate>
+	</media>
+	<media id="V LotF5">
+		<mediatype>Book</mediatype>
+		<genretype>Sciencefiction</genretype>
+		<series>Star Wars: Legacy of the Force</series>
+		<title>Sacrifice</title>
+		<keypersonnel>
+			<person>
+				<role>Author</role>
+					<name>
+						<firstname>Karen</firstname>
+						<lastname>Travis</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+					<name>
+						<firstname>Lumiya,</firstname>
+						<lastname>Dark Lady of the Sith</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+					<name>
+						<firstname>Mara</firstname>
+						<lastname>Skywalker</lastname>
+					</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<summary>Suspected of treason, Han and Leia Solo are on the run, hunted by none other than their own son, Jacen. But though his family sees in Jacen the chilling legacy of his Sith grandfather, Darth Vader, many of the frontline troops adore him, and countless citizens see him as a savior in a galaxy torn apart by too many wars. All Jacen wants is safety and stability for all- and he's prepared to do whatever it takes to achieve that goal... even if it means embracing the teachings of Lumiya, the Dark Lady of the Sith.</summary>
+		</synopsis>
+		<extra>
+			<book-extra>
+				<pages>416</pages>
+				<currentbook>5</currentbook>
+				<totalinseries>9</totalinseries>
+			</book-extra>
+		</extra>
+		<pub>Del Rey: Ballantine Books</pub>
+		<pubdate>2007</pubdate>
+	</media>
+	<media id="VI LotF6">
+		<mediatype>Book</mediatype>
+		<genretype>Sciencefiction</genretype>
+		<series>Star Wars: Legacy of the Force</series>
+		<title>Inferno</title>
+		<keypersonnel>
+			<person>
+				<role>Author</role>
+					<name>
+						<firstname>Troy</firstname>
+						<lastname>Denning</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+					<name>
+						<firstname>Jacen</firstname>
+						<lastname>Solo</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+					<name>
+						<firstname>Tahiri</firstname>
+						<lastname>Veila</lastname>
+					</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<summary>With Luke consumed by grief, Jacen Solo works quickly to consolidate his power and jumpstart his plan to take over the Jedi. Convinced he's the only one who can save the galaxy, Jacen will do whatever it takes, even ambush his own parents.</summary>
+		</synopsis>
+		<extra>
+			<book-extra>
+				<pages>289</pages>
+				<currentbook>6</currentbook>
+				<totalinseries>9</totalinseries>
+			</book-extra>
+		</extra>
+		<pub>Del Rey: Ballantine Books</pub>
+		<pubdate>2007</pubdate>
+	</media>
+	<media id="VII LotF7">
+		<mediatype>Book</mediatype>
+		<genretype>Sciencefiction</genretype>
+		<series>Star Wars: Legacy of the Force</series>
+		<title>Fury</title>
+		<keypersonnel>
+			<person>
+				<role>Author</role>
+					<name>
+						<firstname>Aaron</firstname>
+						<lastname>Allston</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+					<name>
+						<firstname>Jacen</firstname>
+						<lastname>Solo</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+					<name>
+						<firstname>Jaina</firstname>
+						<lastname>Solo</lastname>
+					</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<summary>While Luke grieves the loss of his beloved wife and deals with his guilt over killing the wrong person in retaliation, Jaina, Jag, and Zekk hunt for the real assassin, unaware that the culprit commands Sith powers that can cloud their minds and misdirect their attacks- and even turn them back on themselves.</summary>
+		</synopsis>
+		<extra>
+			<book-extra>
+				<pages>356</pages>
+				<currentbook>7</currentbook>
+				<totalinseries>9</totalinseries>
+			</book-extra>
+		</extra>
+		<pub>Del Rey: Ballantine Books</pub>
+		<pubdate>2007</pubdate>
+	</media>
+	<media id="VIII LotF8">
+		<mediatype>Book</mediatype>
+		<genretype>Sciencefiction</genretype>
+		<series>Star Wars: Legacy of the Force</series>
+		<title>Revelation</title>
+		<keypersonnel>
+			<person>
+				<role>Author</role>
+					<name>
+						<firstname>Karen</firstname>
+						<lastname>Traviss</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+					<name>
+						<firstname>Darth</firstname>
+						<lastname>Caedus</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+					<name>
+						<firstname>Jaina</firstname>
+						<lastname>Solo</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+					<name>
+						<firstname>Ben</firstname>
+						<lastname>Skywalker</lastname>
+					</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<summary>Jacen Solo's shadow of influence has threatened many, especially those closest to him. Jaina Solo is determined to bring her brother in, but in order to track him down, she must first learn unfamiliar skills from a man she finds ruthless, repellent, and dangerous. Meanwhile, Ben Skywalker, still haunted by suspicions that Jacen killed his mother, Mara, decides he must know the truth, even if it costs him his life.</summary>
+		</synopsis>
+		<extra>
+			<book-extra>
+				<pages>410</pages>
+				<currentbook>8</currentbook>
+				<totalinseries>9</totalinseries>
+			</book-extra>
+		</extra>
+		<pub>Del Rey: Ballantine Books</pub>
+		<pubdate>2008</pubdate>
+	</media>
+	<media id="IX LotF9">
+		<mediatype>Book</mediatype>
+		<genretype>Science Fiction</genretype>
+		<series>Star Wars: Legacy of the Force</series>
+		<title>Invincible</title>
+		<keypersonnel>
+			<person>
+				<role>Author</role>
+					<name>
+						<firstname>Troy</firstname>
+						<lastname>Denning</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+					<name>
+						<firstname>Darth</firstname>
+						<lastname>Caedus</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+					<name>
+						<firstname>Jaina</firstname>
+						<lastname>Solo</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Character</role>
+					<name>
+						<firstname>Luke</firstname>
+						<lastname>Skywalker</lastname>
+					</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<summary>The rebel cause is losing ground under the twin blows of Admiral Gilad Pellaeon's assassination and the death of Mara Jade Skywalker. The Galatic Alliance, with the extraordinary power of the newly ascendant Sith Lord Darth Caedus at its helm, may be unstoppable. Tormented and torn between the call of duty and the thirst for vengeance, Luke Skywalker has searched the Force and beheld an unspeakable vision of the galaxy enslaved under tyranny more monstrous than even Emperor Palpatine's. It seems that the last, best hope lies in mobilizing the scattered Jedi for one decisive search-and-destroy mission. The objective: eliminate Darth Caedus.</summary>
+		</synopsis>
+		<extra>
+			<book-extra>
+				<pages>347</pages>
+				<currentbook>9</currentbook>
+				<totalinseries>9</totalinseries>
+			</book-extra>
+		</extra>
+		<pub>Del Rey: Ballantine Books</pub>
+		<pubdate>2008</pubdate>
+	</media>
+	<media id="X H2TYD">
+		<mediatype>DVD</mediatype>
+		<genretype>Animation</genretype>
+		<series>DreamWorks</series>
+		<title id="2">How To Train Your Dragon</title>
+		<keypersonnel>
+			<person>
+				<role>Director</role>
+				<name>
+					<firstname>Chris</firstname>
+					<lastname>Sanders</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Director</role>
+				<name>
+				<firstname>Dean</firstname>
+				<lastname>DeBlois</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Actor</role>
+				<name>
+					<firstname>Jay</firstname>
+					<lastname>Baruchel</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Actor</role>
+				<name>
+					<firstname>Gerad</firstname>
+					<lastname>Butler</lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<summary>A winner with audiences and critics alike, DreamWorks Animation's How To Train Your Dragon rolls fire-breathing action, epic adventure and laughs into a captivating and original story. Hiccup is a young Viking who defies tradition when he befriends one of his deadliest foes - a ferocious dragon he calls Toothless. Together, the unlikely heroes must fight against all odds to save both their worlds in this "wonderful good-time hit!" (Gene Shalit, Today).</summary>
+		</synopsis>
+		<extra>
+			<dvd-extra>
+				<rating>US: PG</rating>
+				<runtime>98</runtime>
+			</dvd-extra>
+		</extra>
+		<pub>Dreamworks Animation Studios</pub>
+		<pubdate>2010</pubdate>
+	</media>
+	<media id="XI BFS 10">
+		<mediatype>CD</mediatype>
+		<genretype>Alternative Rock</genretype>
+		<series>Bowling Soup</series>
+		<title id="Fishing For Woos (Item VII)">Fishing For Woos</title>
+		<keypersonnel>
+			<person>
+				<role>Lead Vocalist</role>
+				<name>
+					<firstname>Jaret</firstname>
+					<lastname>Reddick</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Songwriter</role>
+				<name>
+					<firstname>Jaret</firstname>
+					<lastname>Reddick</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Producer</role>
+				<name>
+					<firstname>Jarinus</firstname>
+					<lastname></lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<tracklist>
+				<track id="1">Let's Pretend We're Not In Love</track>
+				<track id="2">Girls in America</track>
+				<track id="3">S-S-S-Saturday</track>
+				<track id="4">What About Us</track>
+				<track id="5">Here's Your Freakin Song</track>
+				<track id="6">This Ain't My Day</track>
+				<track id="7">Smiley Face (It's All Good)</track>
+				<track id="8">Turbulence</track>
+				<track id="9">I've Never Done Anything Like This</track>
+				<track id="10">Friends Chicks Guitars</track>
+				<track id="11">Guard My Heart (2010)</track>
+				<track id="12">Graduation Trip</track>
+			</tracklist>
+		</synopsis>
+		<extra>
+			<cd-extra>
+				<totaltracks>12</totaltracks>
+				<albumnumber>11th</albumnumber>
+			</cd-extra>
+		</extra>
+		<pub>Que-so Records</pub>
+		<pubdate>2011</pubdate>
+	</media>
+	<media id="XII BJ 10">
+		<mediatype>CD</mediatype>
+		<genretype>Rock</genretype>
+		<series>Bon Jovi</series>
+		<title id="">Have a Nice Day</title>
+		<keypersonnel>
+			<person>
+				<role>Lead Vocalist</role>
+				<name>
+					<firstname>Jon</firstname>
+					<lastname>Bon Jovi</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Lead Writer</role>
+				<name>
+					<firstname>Jon</firstname>
+					<lastname>Bon Jovi</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Producer</role>
+				<name>
+					<firstname>John</firstname>
+					<lastname>Shanks</lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<tracklist>
+				<track id="1">Have A Nice Day</track>
+				<track id="2">I Want To Be Loved</track>
+				<track id="3">Welcome To Wherever You Are</track>
+				<track id="4">Who Says You Can't Go Home</track>
+				<track id="5">Last Man Standing</track>
+				<track id="6">Bells Of Freedom</track>
+				<track id="7">Wildflower</track>
+				<track id="8">Last Cigarette</track>
+				<track id="9">I Am</track>
+				<track id="10">Complicated</track>
+				<track id="11">Novocaine</track>
+				<track id="12">Story Of My Life</track>
+				<track id="13">Who Says You Can't Go Home</track>
+			</tracklist>
+		</synopsis>
+		<extra>
+			<cd-extra>
+				<totaltracks>12</totaltracks>
+				<albumnumber>10</albumnumber>
+			</cd-extra>
+		</extra>
+		<pub>Island</pub>
+		<pubdate>2005</pubdate>
+	</media>					
+	<media id="XIII BJ 12">
+		<mediatype>CD</mediatype>
+		<genretype>Rock</genretype>
+		<series>Bon Jovi</series>
+		<title id="">The Circle</title>
+		<keypersonnel>
+			<person>
+				<role>Lead Vocalist</role>
+				<name>
+					<firstname>Jon</firstname>
+					<lastname>Bon Jovi</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Lead Writer</role>
+				<name>
+					<firstname>Jon</firstname>
+					<lastname>Bon Jovi</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Producer</role>
+				<name>
+					<firstname>John</firstname>
+					<lastname>Shanks</lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<tracklist>
+				<track id="1">We Weren't Born To Follow</track>
+				<track id="2">When We Were Beautiful</track>
+				<track id="3">Work For The Working Man</track>
+				<track id="4">Superman Tonight</track>
+				<track id="5">Bullet</track>
+				<track id="6">Thorn In My Side</track>
+				<track id="7">Live Before You Die</track>
+				<track id="8">Broken Promise Land</track>
+				<track id="9">Love's The Only Rule</track>
+				<track id="10">Fast Cars</track>
+				<track id="11">Happy Now</track>
+				<track id="12">Learn To Love</track>
+			</tracklist>
+		</synopsis>
+		<extra>
+			<cd-extra>
+				<totaltracks>12</totaltracks>
+				<albumnumber>12</albumnumber>
+			</cd-extra>
+		</extra>
+		<pub>Island</pub>
+		<pubdate>2009</pubdate>
+	</media>
+	<media id="XIV WAP">
+		<mediatype>CD</mediatype>
+		<genretype>Alternative Rock</genretype>
+		<series>Wolfgang Amadeus Phoenix</series>
+		<title id="">Phoenix</title>
+		<keypersonnel>
+			<person>
+				<role>Lead Vocalist</role>
+				<name>
+					<firstname>Thomas</firstname>
+					<lastname>Mars</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Lead Writer</role>
+				<name>
+					<firstname>Philippe</firstname>
+					<lastname>Zdar</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Producer</role>
+				<name>
+					<firstname>Phoenix</firstname>
+					<lastname></lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<tracklist>
+				<track id="1">Lisztomania</track>
+				<track id="2">1901</track>
+				<track id="3">Fences</track>
+				<track id="4">Love Like a Sunset Part I</track>
+				<track id="5">Love Like a Sunset Part II</track>
+				<track id="6">Lasso</track>
+				<track id="7">Rome</track>
+				<track id="8">Countdown</track>
+				<track id="9">Girlfriend</track>
+				<track id="10">Armistice</track>
+			</tracklist>
+		</synopsis>
+		<extra>
+			<cd-extra>
+				<totaltracks>10</totaltracks>
+				<albumnumber>4th</albumnumber>
+			</cd-extra>
+		</extra>
+		<pub>V2</pub>
+		<pubdate>2009</pubdate>
+	</media>
+	<media id="XV Brave">
+		<mediatype>DVD</mediatype>
+		<genretype>Animation</genretype>
+		<series>Disney Pixar</series>
+		<title id="3">Brave</title>
+		<keypersonnel>
+			<person>
+				<role>Director</role>
+				<name>
+					<firstname>Mark</firstname>
+					<lastname>Andrews</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Director</role>
+				<name>
+				<firstname>Brenda</firstname>
+				<lastname>Chapman</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+					<firstname>Kelly</firstname>
+					<lastname>MacDonald</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+					<firstname>Emma</firstname>
+					<lastname>Thompson</lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<summary>Pixar Animation Studios, the creator of <em>Toy Story 3,</em> whisks you away on an astonishing adventure to an ancient land full of mystery and tradition. Bursting with heart, unforgettable characters and Pixar's signature humor, <em>Brave</em> is "a rousing, gorgeously animated good time," raves Peter Travers of <em>Rolling Stone</em>. Take a heroic journey with Merida, a skilled archer and headstrong daughter of King Fergus and Queen Elinor. Determined to carve her own path in life, Merida defies an age-old custom sacred to the unruly and uproarious lords of the land. When Merida's actions inadvertently unleash chaos in the kingdom, she must harness all of her skills and resources - including her clever and mischievous triplet brothers - to undo a beastly curse before it's too late, and discover the meaning of true bravery.</summary>
+		</synopsis>
+		<extra>
+			<dvd-extra>
+				<rating>US: PG</rating>
+				<runtime>93</runtime>
+			</dvd-extra>
+		</extra>
+		<pub>Disney/Pixar Animation Studios</pub>
+		<pubdate>2012</pubdate>
+	</media>
+	<media id="XVI Up">
+		<mediatype>DVD</mediatype>
+		<genretype>Animation</genretype>
+		<series>Disney Pixar</series>
+		<title id="4">Up</title>
+		<keypersonnel>
+			<person>
+				<role>Director</role>
+				<name>
+					<firstname>Peter</firstname>
+					<lastname>Doctor</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+				<firstname>Edward</firstname>
+				<lastname>Asner</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+					<firstname>Christopher</firstname>
+					<lastname>Plummer</lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<summary>From the revolutionary minds of Pixar Animation Studios and the acclaimed director of <i>Monsters, Inc.</i> comes a hilariously uplifting adventure where the sky is no longer the limit. Carl Fredricksen, a retired balloon salesman, is part rascal, part dreamer who is ready for his last chance at high-flying excitement. Tying thousands of balloons to his house, Carl sets off to the lost world of his childhood dreams. Unbeknownst to Carl, Russell, an overeager eight-year-old Wildnerness Explorer who has never ventured beyond his backyard, is in the wrong place at the wrong time - Carl's front porch! The world's most unlikely duo reach new heights and meet fantastic friends like Dug, a dog with a special collar that allows him to speak, and Kevin, a rare 13-foot-tall flightless bird. Stuck together in the wilds of the jungle, Carl realizes that sometimes life's biggest adventures aren't the ones you set out looking for.</summary>
+		</synopsis>
+		<extra>
+			<dvd-extra>
+				<rating>US: PG</rating>
+				<runtime>96</runtime>
+			</dvd-extra>
+		</extra>
+		<pub>Disney/Pixar Animation Studios</pub>
+		<pubdate>2009</pubdate>
+	</media>
+	<media id="XVII Incredibles">	
+		<mediatype>DVD</mediatype>
+		<genretype>Animation</genretype>
+		<series>Pixar Universe</series>
+		<title id="5">The Incredibles</title>
+		<keypersonnel>
+			<person>
+				<role>Director</role>
+				<name>
+					<firstname>Brad</firstname>
+					<lastname>Bird</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+					<firstname>Craig</firstname>
+					<lastname>Nelson</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+					<firstname>Holly</firstname>
+					<lastname>Hunter</lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<summary>From the Academy Award-winning creators of Finding Nemo comes the action-packed animated adventure about the mundane and incredible lives of a house full of superheroes. Bob Parr and his wife Helen used to be among the world's greatest crime fighters, saving lives and battling evil on a daily basis. Fifteen years later, they have been forced to adopt civilian identities and retreat to the suburbs where they live "normal" lives with their three kids, Violet, Dash, and Jack-Jack. Itching to get back into action, Bob gets his chance when a mysterious communication summons him to a remote island for a top secret assignment. He soon discovers that it will take a super family effort to rescue the world from total destruction.</summary>
+		</synopsis>
+		<extra>
+			<dvd-extra>
+				<rating>US: PG</rating>
+				<runtime>115</runtime>
+			</dvd-extra>
+		</extra>
+		<pub>Walt Disney/Pixar Animation Studios</pub>
+		<pubdate>2004</pubdate>
+	</media>
+	<media id="XVIII Ironman 3">
+		<mediatype>DVD</mediatype>
+		<genretype>Entertainment</genretype>
+		<series>Marvel Cinematic Universe</series>
+		<title id="7">Iron Man 3</title>
+		<keypersonnel>
+			<person>
+				<role>Director</role>
+				<name>
+					<firstname>Shane</firstname>
+					<lastname>Black</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+					<firstname>Robert</firstname>
+					<lastname>Downey, Jr.</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+					<firstname>Gyneth</firstname>
+					<lastname>Paltrow</lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<summary>The studio that brought you Marvel's The Avengers unleashes the best Iron Man adventure yet with this must-own, global phenomenon starring Robert Downey Jr. When Tony Stark/Iron Man finds his entire world reduced to rubble, he must use all his ingenuity to survive, destroy his enemy and somehow protect those he loves. But a soul-searching question haunts him: Does the man make the suit... or does the suit make the man? Featuring spectacular special effects, Marvel's Iron Man 3 is a wildly entertaining movie you'll watch again and again.</summary>
+		</synopsis>
+		<extra>
+			<dvd-extra>
+				<rating>US: PG</rating>
+				<runtime>130</runtime>
+			</dvd-extra>
+		</extra>
+		<pub>Paramount Pictures</pub>
+		<pubdate>2013</pubdate>
+	</media>
+	<media id="XIX Avengers">
+		<mediatype>DVD</mediatype>
+		<genretype>Entertainment</genretype>
+		<series>Marvel's Cinematic Universe</series>
+		<title id="8">Marvel's The Avengers</title>
+		<keypersonnel>
+			<person>
+				<role>Director</role>
+				<name>
+					<firstname>Josh</firstname>
+					<lastname>Whedon</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+					<firstname>Robert</firstname>
+					<lastname>Downey Jr</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+					<firstname>Chris</firstname>
+					<lastname>Evans</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+				<firstname>Scarlett</firstname>
+				<lastname>Johansson</lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<summary>Marvel makes cinematic history as it unites the Super Hero team of a lifetime. Iron Man (Robert Downey Jr), Captain America (Chris Evans), The Hulk (Mark Ruffalo) and Thor (Chris Hemsworth) assemble together for the first time ever in this epic, action-packed blockbuster - alongside Black Widow (Scarlett Johansson), Hawkeye (Jeremy Renner) and Nick Fury (Samuel L. Jackson). Director Joss Whedon creates an unprecedented masterpiece that has become a global phenomenon. Packed with awesome special effects, Marvel's The Avengers is the must-own movie sensation your family will watch over and over!</summary>
+		</synopsis>
+		<extra>
+			<dvd-extra>
+				<rating>US: PG-13</rating>
+				<runtime>143</runtime>
+			</dvd-extra>
+		</extra>
+		<pub>Paramount Pictures</pub>
+		<pubdate>2012</pubdate>
+	</media>
+	<media id="XX Thor 2">
+	<mediatype>DVD</mediatype>
+		<genretype>Entertainment</genretype>
+		<series>Marvel's Cinematic Universe</series>
+		<title id="9">Thor: The Dark World</title>
+		<keypersonnel>
+			<person>
+				<role>Director</role>
+				<name>
+					<firstname>Alan</firstname>
+					<lastname>Taylor</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+					<firstname>Chris</firstname>
+					<lastname>Hemsworth</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+					<firstname>Natalie</firstname>
+					<lastname>Portman</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+				<firstname>Tom</firstname>
+				<lastname>Hiddleston</lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<summary>From the studio that brought you the #1 Super Hero movie of all time, Marvel's The Avengers, comes another most-own, epic blockbuster starring Chris Hemsworth as The Mighty Thor. Worlds collide when a powerful ancient enemy threatens to plunge the cosmos into eternal darkness. Now, reunited with Jane Foster (Natalie Portman), and forced to forge an alliance with his treacherous brother Loki (Tom Hiddleston), Thor embarks on a perilous personal quest to save both Earth and Asgard from destruction. Experience this action-packed adventure featuring bonus content, including a deleted scene and a new exclusive look at the feature film Marvel's Captain America: The Winter Soldier!</summary>
+		</synopsis>
+		<extra>
+			<dvd-extra>
+				<rating>US: PG-13</rating>
+				<runtime>143</runtime>
+			</dvd-extra>
+		</extra>
+		<pub>Paramount Pictures</pub>
+		<pubdate>2014</pubdate>
+	</media>
+	<media id="XXI Captain America 2">
+		<mediatype>DVD</mediatype>
+		<genretype>Entertainment</genretype>
+		<series>Marvel's Cinematic Universe</series>
+		<title id="10">Captain America: The Winter Soldier</title>
+		<keypersonnel>
+			<person>
+				<role>Director</role>
+				<name>
+					<firstname>Anthony &amp; Joe</firstname>
+					<lastname>Russo</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+					<firstname>Chris</firstname>
+					<lastname>Evans</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+				<firstname>Scarlett</firstname>
+				<lastname>Johansson</lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<summary>From the studio that brough you the #1 Super Hero movie of all time, Marvel's The Avengers, comes Captain America: The Winter Soldier, the global phenomenon that teams Captain America (Chris Evans) and Black Widow (Scarlett Johansson) with their newest ally, the Falcon (Anthony Mackie), in a must-own, epic blockbuster! Following the battle of New York, Steve Rogers, aka Captain America, is living quietly in Washington, DC, trying to adjust to modern life. But when a S.H.I.E.L.D. colleague is attacked, Steve is caught in a web of intrigue that threatens the entire world. Now Captain America, Black Widow and the Falcon must join forces to overthrow their insidious enemy's most mysterious and powerful "weapon" yet: The Winter Soldier.</summary>
+		</synopsis>
+		<extra>
+			<dvd-extra>
+				<rating>US: PG-13</rating>
+				<runtime>143</runtime>
+			</dvd-extra>
+		</extra>
+		<pub>Marvel Studios</pub>
+		<pubdate>2014</pubdate>
+	</media>
+	<media id="XXII Lily Allen 1">
+	<mediatype>CD</mediatype>
+		<genretype>Pop</genretype>
+		<series>Lily Allen</series>
+		<title id="">Alright, Still</title>
+		<keypersonnel>
+			<person>
+				<role>Lead Vocalist</role>
+				<name>
+					<firstname>Lily</firstname>
+					<lastname>Allen</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Lead Writer</role>
+				<name>
+					<firstname>Lily</firstname>
+					<lastname>Allen</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Producer</role>
+				<name>
+					<firstname>Pablo</firstname>
+					<lastname>Cook</lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<tracklist>
+				<track id="1">Smile</track>
+				<track id="2">Knock 'Em Out</track>
+				<track id="3">Ldn</track>
+				<track id="4">Everything's Just Wonderful</track>
+				<track id="5">Not Big</track>
+				<track id="6">Friday Night</track>
+				<track id="7">Shame For You</track>
+				<track id="8">Littlest Things</track>
+				<track id="9">Take What You Want</track>
+				<track id="10">Friend Of Mine</track>
+				<track id="11">Alfie</track>
+			</tracklist>
+		</synopsis>
+		<extra>
+			<cd-extra>
+				<totaltracks>11</totaltracks>
+				<albumnumber>1</albumnumber>
+			</cd-extra>
+		</extra>
+		<pub>Regal</pub>
+		<pubdate>2006</pubdate>
+	</media>
+	<media id="XXIII P!ATD">
+	<mediatype>CD</mediatype>
+		<genretype>Alternative Rock</genretype>
+		<series>Panic! At The Disco</series>
+		<title id="">Vices &amp; Virtues</title>
+		<keypersonnel>
+			<person>
+				<role>Lead Vocalist</role>
+				<name>
+					<firstname>Brendon</firstname>
+					<lastname>Urie</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Lead Writer</role>
+				<name>
+					<firstname>Peter</firstname>
+					<lastname>Wentz</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Producer</role>
+				<name>
+					<firstname>John</firstname>
+					<lastname>Feldman</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Producer</role>
+				<name>
+					<firstname>Butch</firstname>
+					<lastname>Walker</lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<tracklist>
+				<track id="1">The Ballad of Mona Lisa</track>
+				<track id="2">Let's Kill Tonight</track>
+				<track id="3">Hurricane</track>
+				<track id="4">Memories</track>
+				<track id="5">Trade Mistakes</track>
+				<track id="6">Ready To Go (Get Me Out Of My Mind)</track>
+				<track id="7">Always</track>
+				<track id="8">The Calendar</track>
+				<track id="9">Sarah Smiles </track>
+				<track id="10">Nearly Witches (Ever Since We Met)</track>
+			</tracklist>
+		</synopsis>
+		<extra>
+			<cd-extra>
+				<totaltracks>10</totaltracks>
+				<albumnumber>3</albumnumber>
+			</cd-extra>
+		</extra>
+		<pub>Decaydance</pub>
+		<pubdate>2011</pubdate>
+	</media>
+	<media id="XXIV BFS">
+	<mediatype>CD</mediatype>
+		<genretype>Alternative Rock</genretype>
+		<series>Bowling Soup</series>
+		<title id="Sorry' for Partyin' (Item XX)">Sorry for Partyin'</title>
+		<keypersonnel>
+			<person>
+				<role>Lead Vocalist</role>
+				<name>
+					<firstname>Jaret</firstname>
+					<lastname>Reddick</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Songwriter</role>
+				<name>
+					<firstname>Jaret</firstname>
+					<lastname>Reddick</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Producer</role>
+				<name>
+					<firstname>Jarinus</firstname>
+					<lastname></lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<tracklist>
+				<track id="1">A Really Cool Dance Song</track>
+				<track id="2">No Hablo Ingl&#xE8;s</track>
+				<track id="3">My Wena</track>
+				<track id="4">Only Young</track>
+				<track id="5">I Don't Wish You Were Dead Anymore</track>
+				<track id="6">BFFF</track>
+				<track id="7">Me With No You</track>
+				<track id="8">Hooray For Beer</track>
+				<track id="9">America(Wake Up Amy)</track>
+				<track id="10">If Only</track>
+				<track id="11">I Gotchoo</track>
+				<track id="12">Love Goes Boom</track>
+				<track id="13">I Can't Stand L.A.</track>
+			</tracklist>
+		</synopsis>
+		<extra>
+			<cd-extra>
+				<totaltracks>13</totaltracks>
+				<albumnumber>10th</albumnumber>
+			</cd-extra>
+		</extra>
+		<pub>Jive Records</pub>
+		<pubdate>2009</pubdate>
+	</media>
+	<media id="XXV Beatles">
+		<mediatype>DVD</mediatype>
+		<genretype>Documentary</genretype>
+		<series>The Beatles Anthology</series>
+		<title id="10">The Beatles Anthology</title>
+		<keypersonnel>
+			<person>
+				<role>Director</role>
+				<name>
+					<firstname>Geoff</firstname>
+					<lastname>Wonfor</lastname>
+					</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+					<firstname>Paul</firstname>
+					<lastname>McCartney</lastname>
+				</name>
+			</person>
+			<person>
+				<role>Lead Actor</role>
+				<name>
+				<firstname>John</firstname>
+				<lastname>Lennon</lastname>
+				</name>
+			</person>
+		</keypersonnel>
+		<synopsis>
+			<summary>The history of The Beatles, from their humble origins to the peak of their popularity then subsequent break-up. This eight-part DVD set uses archive footage to provide a never-before-seen and comprehensive look at one of the world's most iconic music groups.</summary>
+		</synopsis>
+		<extra>
+			<dvd-extra>
+				<rating>UK: 12</rating>
+				<runtime>151</runtime>
+			</dvd-extra>
+		</extra>
+		<pub>Apple</pub>
+		<pubdate>2003</pubdate>
+	</media>
+	</library>

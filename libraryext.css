@@ -1,0 +1,71 @@
+body {
+	background-color: #FFE590
+}
+
+table, tr, th {
+    border: 4px #CC5600;
+	border-collapse: collapse;
+	height: 25%;
+	padding: 6px;
+}
+
+tr {
+    padding: 4px;
+	font-family: Caslon;
+	font-size: 13px;
+	color: FFFFFF;
+}
+
+tr:nth-of-type(odd) { 
+		background: #7F4C26;
+}
+
+tr:nth-of-type(even) { 
+		background: #CCCCCC;
+}
+
+th {
+	background-color: #CC5600;
+	font-family: Century;
+	font-size: 14px;
+}
+
+h1 {
+	font-family: Verdana;
+	font-size: 28px;
+	font-weight: strong;
+	color: #CC5600;
+	
+}
+	
+p {
+	font-family: Garamond;
+	font-size: 18px;
+	color: #FF984C;
+}
+
+table ul {
+	font-family: Century;
+	font-size: 14px;
+}
+
+	/* Define the default color for all the table rows */
+ tr{
+		background: #b8d1f3;
+	}
+	/* Define the hover highlight color for the table row */
+ tr:hover {
+          background-color: #CC5600;
+		  color: white;
+    }
+
+.main-content ul li {
+	font-size: 18px;
+	font-family: Garamond; 
+	margin-left: 5%;
+	margin-top: 14px;
+	color: #FF984C;
+	line-height:1.4;
+	width:80%;
+	list-style-type: square;
+}
